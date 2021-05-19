@@ -1,4 +1,5 @@
 # Phase 1
+# extract-highschool.py
 # 고등학교만 추출해보자
 
 import pandas as pd
